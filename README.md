@@ -6,9 +6,7 @@ A personal Claude Code plugin marketplace.
 
 ```bash
 # 1. Register this marketplace (run once, from any directory)
-/plugin marketplace add /path/to/ai-marketplace
-# or, if Claude Code is open at the repo root:
-/plugin marketplace add ./
+/plugin marketplace add https://github.com/adericbourg/ai-marketplace
 
 # 2. Install a plugin
 /plugin install web-development@ai-marketplace
