@@ -1,0 +1,18 @@
+{
+  "name": "ai-marketplace",
+  "owner": {
+    "name": "Alban Dericbourg",
+    "email": "alban.dericbourg@mirakl.com"
+  },
+  "description": "Personal collection of Claude Code plugins.",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "web-development",
+      "source": "web-development",
+      "description": "Web development plugin. Includes a web eco-design (sustainability) skill."
+    }
+  ]
+}

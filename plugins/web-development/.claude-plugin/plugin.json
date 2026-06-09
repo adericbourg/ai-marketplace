@@ -1,0 +1,9 @@
+{
+  "name": "web-development",
+  "description": "Web development helpers. Currently: web eco-design best practices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alban Dericbourg"
+  },
+  "keywords": ["web", "eco-design", "sustainability", "frontend"]
+}
