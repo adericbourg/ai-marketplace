@@ -11,6 +11,8 @@ The primary eco-design lever is **reducing resource consumption** — RAM, CPU, 
 
 Eco-design is not a single decision; it is a discipline applied at every stage of a project, from scoping to maintenance.
 
+For deliberately minimal, resilient, or off-grid sites — where constraint and resilience are the *requirement* rather than an optimisation — see the `low-tech-web` skill.
+
 ## How to use this skill
 
 Find the row that matches the user's current stage or question. Apply the prescriptive takeaway directly. Follow the reference link for deeper criteria and examples when the situation is complex.

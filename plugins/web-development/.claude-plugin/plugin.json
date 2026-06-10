@@ -1,9 +1,9 @@
 {
   "name": "web-development",
-  "description": "Web development helpers. Currently: web eco-design best practices.",
+  "description": "Web development helpers: web eco-design best practices and low-tech (minimal, resilient, long-lived) website design.",
   "version": "0.1.0",
   "author": {
     "name": "Alban Dericbourg"
   },
-  "keywords": ["web", "eco-design", "sustainability", "frontend"]
+  "keywords": ["web", "eco-design", "sustainability", "frontend", "low-tech", "resilience", "offline", "progressive-enhancement", "performance"]
 }
