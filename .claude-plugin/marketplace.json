@@ -5,13 +5,10 @@
     "email": "alban.dericbourg@mirakl.com"
   },
   "description": "Personal collection of Claude Code plugins.",
-  "metadata": {
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "web-development",
-      "source": "web-development",
+      "source": "./plugins/web-development",
       "description": "Web development plugin. Includes web eco-design (sustainability) and low-tech website design skills."
     }
   ]
