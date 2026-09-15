@@ -2,9 +2,10 @@
   "name": "ai-marketplace",
   "owner": {
     "name": "Alban Dericbourg",
-    "email": "alban.dericbourg@mirakl.com"
+    "email": "alban@dericbourg.dev"
   },
   "description": "Personal collection of Claude Code plugins.",
+  "allowCrossMarketplaceDependenciesOn": ["ponytail"],
   "plugins": [
     {
       "name": "web-development",
