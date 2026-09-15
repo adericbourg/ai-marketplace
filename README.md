@@ -27,6 +27,12 @@ Web development helpers.
 
 Development tools.
 
+Depends on the `ponytail` marketplace. Register it before installing:
+
+```bash
+/plugin marketplace add DietrichGebert/ponytail
+```
+
 | Skill | When to use |
 |---|---|
 | `commit` | When creating a git commit — whether explicitly requested, part of finishing a task, or automatic — to get the message language, format, signing, and attribution right. |
