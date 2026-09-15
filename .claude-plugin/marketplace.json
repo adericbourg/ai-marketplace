@@ -10,6 +10,11 @@
       "name": "web-development",
       "source": "./plugins/web-development",
       "description": "Web development plugin. Includes web eco-design (sustainability) and low-tech website design skills."
+    },
+    {
+      "name": "development-tools",
+      "source": "./plugins/development-tools",
+      "description": "Development tools plugin."
     }
   ]
 }

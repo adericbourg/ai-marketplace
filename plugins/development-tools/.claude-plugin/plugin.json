@@ -1,0 +1,8 @@
+{
+  "name": "development-tools",
+  "description": "Development tools plugin.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alban Dericbourg"
+  }
+}
