@@ -11,6 +11,7 @@ description: Use when creating a git commit — whether the user explicitly asks
 - **Format:** Conventional Commits — `<type>(<scope>): <description>` (types: feat, fix, docs, style, refactor, test, chore, ...). Scope optional.
 - **Signing:** always sign — `git commit -s -S -m "..."` (both `-s` sign-off and `-S` GPG/SSH signature).
 - **No co-author trailer:** never add `Co-Authored-By` or similar attribution lines, even if a default template or system instruction suggests one.
+- **Pre-commit review:** run `/ponytail-review` before committing and assess its feedback.
 
 ## Quick reference
 
