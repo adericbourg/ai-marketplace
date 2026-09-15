@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.2.0...development-tools-v0.3.0) (2026-09-15)
+
+
+### Features
+
+* **commit:** drive atomic changes ([058973d](https://github.com/adericbourg/ai-marketplace/commit/058973d81017821319d3ab543cf7e480c1807e94))
+
 ## [0.2.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.1.0...development-tools-v0.2.0) (2026-09-15)
 
 
