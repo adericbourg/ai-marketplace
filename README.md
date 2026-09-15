@@ -22,3 +22,11 @@ Web development helpers.
 |---|---|
 | `web-eco-design` | When designing, building, or reviewing a web service and you want to apply eco-design / sustainability / green-IT best practices. Covers all 10 stages of the Designers Éthiques eco-design guide, plus curated tools and reference frameworks. |
 | `low-tech-web` | When deliberately building a minimal, resilient or long-lived site under hard constraints (poor/intermittent network, old or low-power devices, off-grid power, no-build/no-JS, strict page-weight budgets). |
+
+### `development-tools`
+
+Development tools.
+
+| Skill | When to use |
+|---|---|
+| `commit` | When creating a git commit — whether explicitly requested, part of finishing a task, or automatic — to get the message language, format, signing, and attribution right. |
