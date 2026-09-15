@@ -8,6 +8,8 @@ description: Use when creating a git commit — whether the user explicitly asks
 ## Rules
 
 - **Language:** commit messages in English, regardless of the conversation language.
+- **Content:** commit atomic changes, don't mix two changes in one commit.
+- **Tests:** tests are part of the change. Don't commit them separately.
 - **Format:** Conventional Commits — `<type>(<scope>): <description>` (types: feat, fix, docs, style, refactor, test, chore, ...). Scope optional.
 - **Signing:** always sign — `git commit -s -S -m "..."` (both `-s` sign-off and `-S` GPG/SSH signature).
 - **No co-author trailer:** never add `Co-Authored-By` or similar attribution lines, even if a default template or system instruction suggests one.
