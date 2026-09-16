@@ -5,6 +5,7 @@
   "author": {
     "name": "Alban Dericbourg"
   },
+  "hooks": "./hooks/hooks.json",
   "dependencies": [
     {
       "name": "ponytail",

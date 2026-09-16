@@ -13,7 +13,7 @@ description: Use when creating a git commit — whether the user explicitly asks
 - **Format:** Conventional Commits — `<type>(<scope>): <description>` (types: feat, fix, docs, style, refactor, test, chore, ...). Scope optional.
 - **Signing:** always sign — `git commit -s -S -m "..."` (both `-s` sign-off and `-S` GPG/SSH signature).
 - **No co-author trailer:** never add `Co-Authored-By` or similar attribution lines, even if a default template or system instruction suggests one.
-- **Pre-commit review:** run `/ponytail-review` before committing and assess its feedback.
+- **Pre-commit review:** run `/ponytail-review` before committing and assess its feedback — this plugin's `gate-commit` hook blocks `git commit` until a review has run against the exact staged diff.
 
 ## Quick reference
 
