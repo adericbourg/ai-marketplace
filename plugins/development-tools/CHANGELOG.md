@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.3.0...development-tools-v0.4.0) (2026-09-16)
+
+
+### Features
+
+* **development-tools:** gate git commit on ponytail-review ([3b7ca9b](https://github.com/adericbourg/ai-marketplace/commit/3b7ca9b63df5d01a01937d26225c8635646a7fdb))
+
 ## [0.3.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.2.0...development-tools-v0.3.0) (2026-09-15)
 
 
