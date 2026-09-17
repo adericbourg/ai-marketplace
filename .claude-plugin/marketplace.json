@@ -15,7 +15,7 @@
     {
       "name": "development-tools",
       "source": "./plugins/development-tools",
-      "description": "Development tools plugin. Includes a commit skill enforcing English, Conventional Commits, signed commits, and no co-author trailer."
+      "description": "Development tools plugin. Includes a commit skill enforcing English, Conventional Commits, signed commits, and no co-author trailer, and a pull-request skill for title/description conventions."
     }
   ]
 }

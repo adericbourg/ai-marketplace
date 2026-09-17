@@ -36,3 +36,4 @@ Depends on the `ponytail` marketplace. Register it before installing:
 | Skill | When to use |
 |---|---|
 | `commit` | When creating a git commit — whether explicitly requested, part of finishing a task, or automatic — to get the message language, format, signing, and attribution right. |
+| `pull-request` | When creating a pull-request (or merge-request) — whether explicitly requested or as the final step of finishing a task — to get the title language, format, and description content right. |
