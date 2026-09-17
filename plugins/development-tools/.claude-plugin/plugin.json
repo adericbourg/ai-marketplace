@@ -1,7 +1,7 @@
 {
   "name": "development-tools",
   "description": "Development tools plugin. Includes a commit skill enforcing English, Conventional Commits, signed commits, and no co-author trailer.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": {
     "name": "Alban Dericbourg"
   },
