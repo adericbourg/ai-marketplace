@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.4.0...development-tools-v0.5.0) (2026-09-17)
+
+
+### Features
+
+* **development-tools:** add pull-request creation skill ([b5fcbaa](https://github.com/adericbourg/ai-marketplace/commit/b5fcbaa910c7b6ed8a093678f7698a13f2d7ffd4))
+
 ## [0.4.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.3.0...development-tools-v0.4.0) (2026-09-16)
 
 
