@@ -1,7 +1,7 @@
 {
   "name": "documentation",
   "description": "Documentation helpers: capture a conversation as a note in an Obsidian knowledge base.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "Alban Dericbourg"
   },
