@@ -44,4 +44,4 @@ Documentation helpers.
 
 | Skill | When to use |
 |---|---|
-| `obsidian-sheet` | When you want to save, capture, or summarize the current conversation as a note (sheet) in an Obsidian knowledge base. Takes the vault directory as argument, or reads it from memory / CLAUDE.md. |
+| `obsidian-sheet` | When you want to save, capture, or summarize the current conversation as a note (sheet) in an Obsidian knowledge base. Takes the vault directory as argument, or reads it from memory / CLAUDE.md. Without vault access (e.g. Claude Chat), it outputs the note for you to paste. |

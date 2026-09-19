@@ -18,6 +18,10 @@ Resolve the vault directory in this order: `$ARGUMENTS`, then a path recorded in
 2. **Write the sheet** at the vault root as `<Human title>.md`, unless the vault already uses folders for this kind of note.
 3. **Report** the path written. Commit in the vault only if asked.
 
+## Without filesystem access
+
+In a chat that can't reach the vault (e.g. Claude Chat), skip Vault and Steps. Output the note in one fenced markdown block, then a suggested filename. No `[[wikilinks]]` (unverifiable); ask for existing tags to reuse, else use plain ones.
+
 ## Format
 
 - No frontmatter.
