@@ -16,6 +16,11 @@
       "name": "development-tools",
       "source": "./plugins/development-tools",
       "description": "Development tools plugin. Includes a commit skill enforcing English, Conventional Commits, signed commits, and no co-author trailer, and a pull-request skill for title/description conventions."
+    },
+    {
+      "name": "documentation",
+      "source": "./plugins/documentation",
+      "description": "Documentation plugin. Includes an obsidian-sheet skill that captures a conversation as a note in an Obsidian knowledge base."
     }
   ]
 }

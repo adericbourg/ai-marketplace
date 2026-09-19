@@ -1,4 +1,5 @@
 {
+  "plugins/documentation": "0.0.0",
   "plugins/development-tools": "0.5.0",
   "plugins/web-development": "0.2.0"
 }

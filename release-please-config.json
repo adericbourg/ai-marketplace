@@ -9,6 +9,13 @@
         { "type": "json", "path": ".claude-plugin/plugin.json", "jsonpath": "$.version" }
       ]
     },
+    "plugins/documentation": {
+      "release-type": "simple",
+      "package-name": "documentation",
+      "extra-files": [
+        { "type": "json", "path": ".claude-plugin/plugin.json", "jsonpath": "$.version" }
+      ]
+    },
     "plugins/web-development": {
       "release-type": "simple",
       "package-name": "web-development",

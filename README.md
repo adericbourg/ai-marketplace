@@ -37,3 +37,11 @@ Depends on the `ponytail` marketplace. Register it before installing:
 |---|---|
 | `commit` | When creating a git commit — whether explicitly requested, part of finishing a task, or automatic — to get the message language, format, signing, and attribution right. |
 | `pull-request` | When creating a pull-request (or merge-request) — whether explicitly requested or as the final step of finishing a task — to get the title language, format, and description content right. |
+
+### `documentation`
+
+Documentation helpers.
+
+| Skill | When to use |
+|---|---|
+| `obsidian-sheet` | When you want to save, capture, or summarize the current conversation as a note (sheet) in an Obsidian knowledge base. Takes the vault directory as argument, or reads it from memory / CLAUDE.md. |
