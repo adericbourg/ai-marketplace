@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v1.0.0...development-tools-v1.1.0) (2026-09-19)
+
+
+### Features
+
+* add development-tools plugin ([8ae77d9](https://github.com/adericbourg/ai-marketplace/commit/8ae77d95e99ad19406f46d7de0ff6a3d573b7b08))
+* **commit:** add commit skill to development-tools plugin ([d87ca46](https://github.com/adericbourg/ai-marketplace/commit/d87ca462657933d44c6897506349df2c24b0189e))
+* **commit:** drive atomic changes ([058973d](https://github.com/adericbourg/ai-marketplace/commit/058973d81017821319d3ab543cf7e480c1807e94))
+* **commit:** require ponytail review before committing ([561b38d](https://github.com/adericbourg/ai-marketplace/commit/561b38d9663c1fcf324a5b3b688f51e06d313f74))
+* **development-tools:** add pull-request creation skill ([b5fcbaa](https://github.com/adericbourg/ai-marketplace/commit/b5fcbaa910c7b6ed8a093678f7698a13f2d7ffd4))
+* **development-tools:** gate git commit on ponytail-review ([3b7ca9b](https://github.com/adericbourg/ai-marketplace/commit/3b7ca9b63df5d01a01937d26225c8635646a7fdb))
+* **marketplace:** allow development-tools to depend on ponytail ([9c14b22](https://github.com/adericbourg/ai-marketplace/commit/9c14b222ee1fef1b91fa0ea03e5369559e94a9f8))
+
 ## [0.5.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v0.4.0...development-tools-v0.5.0) (2026-09-17)
 
 
