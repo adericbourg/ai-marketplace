@@ -1,7 +1,7 @@
 {
   "name": "web-development",
   "description": "Web development helpers: web eco-design best practices and low-tech (minimal, resilient, long-lived) website design.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "author": {
     "name": "Alban Dericbourg"
   },
