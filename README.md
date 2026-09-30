@@ -45,3 +45,4 @@ Documentation helpers.
 | Skill | When to use |
 |---|---|
 | `obsidian-sheet` | When you want to save, capture, or summarize the current conversation as a note (sheet) in an Obsidian knowledge base. Takes the vault directory as argument, or reads it from memory / CLAUDE.md. Without vault access (e.g. Claude Chat), it outputs the note for you to paste. |
+| `tech-writing` | When writing, editing, or reviewing software engineering documentation (READMEs, how-to guides, runbooks, ADRs, design docs, API docs, code comments) that must be clear, concise and scannable. Ends with a verification checklist. Follows the input language, English by default. |

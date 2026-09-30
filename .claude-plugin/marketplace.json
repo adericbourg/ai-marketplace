@@ -20,7 +20,7 @@
     {
       "name": "documentation",
       "source": "./plugins/documentation",
-      "description": "Documentation plugin. Includes an obsidian-sheet skill that captures a conversation as a note in an Obsidian knowledge base."
+      "description": "Documentation plugin. Includes an obsidian-sheet skill that captures a conversation as a note in an Obsidian knowledge base, and a tech-writing skill for clear software engineering documentation."
     }
   ]
 }
