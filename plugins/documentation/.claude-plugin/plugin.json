@@ -1,6 +1,6 @@
 {
   "name": "documentation",
-  "description": "Documentation helpers: capture a conversation as a note in an Obsidian knowledge base, write clear software engineering documentation.",
+  "description": "Documentation helpers: capture a conversation as a note in an Obsidian knowledge base, write clear software engineering documentation, check that tech design docs cover all necessary topics.",
   "version": "1.2.0",
   "author": {
     "name": "Alban Dericbourg"
@@ -10,6 +10,7 @@
     "obsidian",
     "knowledge-base",
     "notes",
-    "technical-writing"
+    "technical-writing",
+    "design-doc"
   ]
 }
