@@ -12,6 +12,7 @@ description: Use when creating a pull-request (or merge-request) — whether the
 - **Length:**
   * Context should be a few sentences: most often 1 or 2 max. Cap to 5 for complex cases. Prefer bullet-points over long sentences.
   * Content should have only very short sentences. Each bullet point is a summary of an atomic change.
+- **After creation:** show the link to the created pull-request to the user.
 
 ## Quick reference
 
