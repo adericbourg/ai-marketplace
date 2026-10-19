@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/adericbourg/ai-marketplace/compare/documentation-v1.2.0...documentation-v1.3.0) (2026-10-19)
+
+
+### Features
+
+* **documentation:** add design-doc-checklist skill ([2df076c](https://github.com/adericbourg/ai-marketplace/commit/2df076c77d543e0d82974e61cb0e3b625c33459d))
+
 ## [1.2.0](https://github.com/adericbourg/ai-marketplace/compare/documentation-v1.1.0...documentation-v1.2.0) (2026-09-30)
 
 
