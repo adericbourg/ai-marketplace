@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v1.1.0...development-tools-v1.1.1) (2026-10-19)
+
+
+### Documentation
+
+* **pull-request:** show the PR link to the user once created ([bf39020](https://github.com/adericbourg/ai-marketplace/commit/bf390201daca37215d9184d4f31b7abda137e8eb))
+
 ## [1.1.0](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v1.0.0...development-tools-v1.1.0) (2026-09-19)
 
 
