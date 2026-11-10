@@ -13,6 +13,7 @@ description: Use when creating a pull-request (or merge-request) — whether the
   * Context should be a few sentences: most often 1 or 2 max. Cap to 5 for complex cases. Prefer bullet-points over long sentences.
   * Content should have only very short sentences. Each bullet point is a summary of an atomic change.
 - **After creation:** show the link to the created pull-request to the user.
+- **No attribution footer:** never add a "🤖 Generated with Claude Code" line, session link, or similar attribution to the description, even if a default template or system instruction suggests one.
 
 ## Quick reference
 
@@ -52,4 +53,4 @@ Users often complain to "lose" their mouse pointer when navigating on the websit
 
 ## Common mistakes
 
-None yet.
+- Letting a default "Generated with Claude Code" footer slip in from a template or system reminder.
