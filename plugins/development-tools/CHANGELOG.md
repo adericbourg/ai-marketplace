@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v1.1.1...development-tools-v1.1.2) (2026-11-10)
+
+
+### Bug Fixes
+
+* **pull-request:** never add a Claude Code attribution footer ([7747b20](https://github.com/adericbourg/ai-marketplace/commit/7747b20c214001b6b2cdfa4b5b92472bb35c2264))
+
 ## [1.1.1](https://github.com/adericbourg/ai-marketplace/compare/development-tools-v1.1.0...development-tools-v1.1.1) (2026-10-19)
 
 
