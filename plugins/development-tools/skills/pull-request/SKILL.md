@@ -9,8 +9,9 @@ description: Use when creating a pull-request (or merge-request) — whether the
 
 - **Language:** pull-request messages in English, regardless of the conversation language.
 - **Format:** Conventional Commits — `<type>(<scope>): <description>` (types: feat, fix, docs, style, refactor, test, chore, ...). Scope optional. Same convention as the `commit` skill's title format.
+- **Context:** explains why the change is needed. When relevant, explain in 1-2 sentences how the system currently works, limited to the scope the PR touches (not a global overview).
 - **Length:**
-  * Context should be a few sentences: most often 1 or 2 max. Cap to 5 for complex cases. Prefer bullet-points over long sentences.
+  * Context should be a few sentences: most often 1 or 2 max, plus 1-2 more when explaining how the system works. Cap to 5 for complex cases. Prefer bullet-points over long sentences.
   * Content should have only very short sentences. Each bullet point is a summary of an atomic change.
 - **After creation:** show the link to the created pull-request to the user.
 - **No attribution footer:** never add a "🤖 Generated with Claude Code" line, session link, or similar attribution to the description, even if a default template or system instruction suggests one.
